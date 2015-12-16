@@ -1,0 +1,3 @@
+01_fix-xrdb-call.patch
+03_add-light-locker-to-xflock4.patch
+xubuntu_ignore-gdm-lang.patch
